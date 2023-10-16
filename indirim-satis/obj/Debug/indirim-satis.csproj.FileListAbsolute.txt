@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\bin\Debug\indirim-satis.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\bin\Debug\indirim-satis.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\bin\Debug\indirim-satis.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\obj\Debug\indirim-satis.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\obj\Debug\indirim-satis.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\obj\Debug\indirim_satis.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\obj\Debug\indirim_satis.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\obj\Debug\indirim-satis.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\obj\Debug\indirim-satis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\obj\Debug\indirim-satis.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satis\indirim-satis\obj\Debug\indirim-satis.pdb
